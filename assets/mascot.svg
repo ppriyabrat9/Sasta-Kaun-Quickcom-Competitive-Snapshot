@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <!-- Sasta: a cheeky price tag with googly eyes -->
+  <g transform="rotate(-12 64 64)">
+    <path d="M30 22h52l26 26v0c0 0 0 0 0 0L82 106H30c-6 0-10-4-10-10V32c0-6 4-10 10-10z" fill="#FFD84D" stroke="#141210" stroke-width="6" stroke-linejoin="round"/>
+    <circle cx="86" cy="44" r="7" fill="#FFF5E1" stroke="#141210" stroke-width="5"/>
+    <circle cx="40" cy="54" r="11" fill="#fff" stroke="#141210" stroke-width="4.5"/>
+    <circle cx="64" cy="54" r="11" fill="#fff" stroke="#141210" stroke-width="4.5"/>
+    <circle cx="43" cy="57" r="5" fill="#141210"/>
+    <circle cx="67" cy="51" r="5" fill="#141210"/>
+    <path d="M38 78c8 9 22 9 30 0" fill="none" stroke="#141210" stroke-width="5.5" stroke-linecap="round"/>
+    <circle cx="30" cy="74" r="5" fill="#FF7AB6"/>
+    <circle cx="76" cy="74" r="5" fill="#FF7AB6"/>
+  </g>
+  <circle cx="104" cy="104" r="20" fill="#6C3BFF" stroke="#141210" stroke-width="5"/>
+  <text x="104" y="113" text-anchor="middle" font-family="Arial Black,Arial,sans-serif" font-weight="900" font-size="26" fill="#D4F55B">₹</text>
+</svg>
